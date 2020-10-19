@@ -1,0 +1,33 @@
+
+Buenas Grupo,
+
+Les dejo los comandos basicos que deben hacer para subir sus avances del 
+proyectos.
+
+-------------------------------------------------------------------------------
+
+_______________________        Primera vez      _______________________________
+     
+git clone -> se utiliza para que clone el proyecto que ya esta creado en github
+
+-------------------------------------------------------------------------------
+
+_______________   Siempre cuando quieran subir sus cambios     ________________ 
+
+
+git pull -> se utiliza para que actualicen su avances con los de us compañeros
+
+git status -> para que observen los archivos que ustedes hicieron o que 
+modificaron 
+
+git add . -> para agregar sus modificaciones 
+
+git commit -m "info de sus avances" -> se utiliza para agregar un mensaje de los
+ avances que realizaron 
+
+git push  -> es de caracter necesario, cuando se ejecita este comando es cuando 
+se sube su avance al repositoro, donde los demas colgegas podran actualizar sus
+avances con lo que lograste hacer. 
+
+
+
